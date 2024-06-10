@@ -1,2 +1,2 @@
 nginx
-documentserver-develop
+onlyoffice/documentserver-develop
